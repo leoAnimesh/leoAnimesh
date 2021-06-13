@@ -1,4 +1,5 @@
-- 👋 Hi,MySelf Animesh Mondal (IT 2nd Year Student)
+<h1> I am Newbie Full-stack javascript developer </h1>
+- 👋 Hi,MySelf Animesh Mondal (College Student)
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I basically love javascript the most and want to be a javscript developer
