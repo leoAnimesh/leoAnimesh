@@ -1,6 +1,9 @@
-<h1> I am Newbie Full-stack javascript developer </h1>
-- 👋 Hi,MySelf Animesh Mondal (College Student)
-- 👀 I’m interested in Full stack development
+Hi there, I'm Animesh
+
+<h1>I'm a Full stack web developer <a href="https://linktr.ee/LeoAnimesh">🔗</a> </h1> 
+
+- 👋 I'm currently working @ <a href="https://www.youtube.com/channel/UChfHS4Azu-8ZGFNMkBItc-A">The codecon (Yotube Channel)</a>
+- 👀 I’m interested in Full stack software development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I basically love javascript the most and want to be a javscript developer
 - 📫 How to reach me ... 
