@@ -4,7 +4,7 @@
 
 - 👋 I'm currently working @ <a href="https://www.youtube.com/channel/UChfHS4Azu-8ZGFNMkBItc-A">The codecon (Yotube Channel)</a>
 - 👀 I’m interested in Full stack javascript development
-- 🌱 I’m currently learning Everythin related to JS
+- 🌱 I’m currently learning Everything related to JS
 - 💞️ I basically love javascript the most 
 - 📫 How to reach me ... 
 click on this link to acess my social links 👉 https://linktr.ee/LeoAnimesh
