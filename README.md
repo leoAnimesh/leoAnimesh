@@ -1,6 +1,6 @@
 <h4>Hi there, I'm Animesh</h4>
 
-<h1>I'm a Frontend Developer </h1> 
+<h1>I'm a Full Stack Freelance Developer </h1> 
 
 - 👋 I'm currently working @ <a href="https://www.youtube.com/channel/UChfHS4Azu-8ZGFNMkBItc-A">The codecon (Yotube Channel)</a>
 - 👀 I’m interested in Full stack javascript development
