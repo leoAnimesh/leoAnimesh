@@ -2,7 +2,7 @@
 
 <h1>I'm a Full Stack Javascript Developer </h1> 
 
-- 👋 I'm currently working @ <a href="https://www.youtube.com/channel/UChfHS4Azu-8ZGFNMkBItc-A">The codecon (Yotube Channel)</a>
+- 👋 I'm currently working as a Freelance Developer
 - 👀 I’m interested in Full stack javascript development
 - 🌱 I’m currently learning Everything related to JS
 - 💞️ I basically love to code,play games, watch movies, listen to music ..etc. 
