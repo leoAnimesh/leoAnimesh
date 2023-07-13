@@ -1,6 +1,6 @@
 <h4>Hi there, I'm Animesh</h4>
 
-<h1>I'm a Full Stack Javascript Developer </h1> 
+<h1>I'm Javascript Developer </h1> 
 
 - 👋 I'm currently working as a Freelance Developer
 - 👀 I’m interested in Full stack javascript development
