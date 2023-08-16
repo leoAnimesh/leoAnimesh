@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JS Promise Example](https://dev.to/leoanimesh/js-promise-example-4oa9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
