@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://example.com](https://example.com)
 
-- 📝 I regularly write articles on [https://dev.to/leoanimesh](https://dev.to/leoanimesh)
+- 📝 I regularly write articles on [https://medium.com/@mondalarup808](https://medium.com/@mondalarup808)
 
 - 💬 Ask me about **React,React Native,Javascript**
 
@@ -18,14 +18,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [JS Promise Example](https://dev.to/leoanimesh/js-promise-example-4oa9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/leoanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="leoanimesh" height="30" width="40" /></a>
+<a href="https://medium.com/@mondalarup808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leoanimesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leoanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoanimesh" height="30" width="40" /></a>
-<a href="https://hashnode.com/leoanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="leoanimesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
