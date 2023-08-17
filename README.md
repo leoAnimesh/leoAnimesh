@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://example.com](https://example.com)
 
-- 📝 I regularly write articles on [https://medium.com/@mondalarup808](https://medium.com/@mondalarup808)
+- 📝 I regularly write articles on [https://medium.com/@leoanimesh](https://medium.com/@leoanimesh)
 
 - 💬 Ask me about **React,React Native,Javascript**
 
@@ -18,8 +18,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Promises Explained](https://medium.com/@mondalarup808/javascript-promises-explained-a855963dd89f?source=rss-8788965f718d------2)
-- [Top vscode extension for developers](https://medium.com/@mondalarup808/top-vscode-extension-for-developers-94a0d2fe566e?source=rss-8788965f718d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
