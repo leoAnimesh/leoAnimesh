@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I converted my old laptop into a home server](https://medium.com/@leoanimesh/how-i-converted-my-old-laptop-as-a-home-server-e06b0f8d69f5?source=rss-8788965f718d------2)
 - [Javascript this keyword explained](https://medium.com/@leoanimesh/javascript-this-keyword-explained-a62f3676fca1?source=rss-8788965f718d------2)
 - [JavaScript Promises Explained](https://medium.com/@leoanimesh/javascript-promises-explained-a855963dd89f?source=rss-8788965f718d------2)
 - [Top vscode extension for developers](https://medium.com/@leoanimesh/top-vscode-extension-for-developers-94a0d2fe566e?source=rss-8788965f718d------2)
