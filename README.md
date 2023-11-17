@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **Everything related to Javascript**
 
-- 👨‍💻 All of my projects are available at [https://example.com](https://example.com)
-
-- 📝 I regularly write articles on [https://medium.com/@leoanimesh](https://medium.com/@leoanimesh)
+- 📝 Sometimes I write articles on [https://medium.com/@leoanimesh](https://medium.com/@leoanimesh)
 
 - 💬 Ask me about **React,React Native,Javascript**
 
