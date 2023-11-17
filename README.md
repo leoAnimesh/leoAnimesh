@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [Webnion](https:github.com/leoAnimesh/webnion)
+- 🔭 I’m currently working as a Software Developer
 
 - 🌱 I’m currently learning **Everything related to Javascript**
 
