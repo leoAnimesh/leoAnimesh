@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mondalarup808@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/txCS9](https://shorturl.at/txCS9)
+- 📄 Know about my experiences [https://leoanimesh.github.io/](https://leoanimesh.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
