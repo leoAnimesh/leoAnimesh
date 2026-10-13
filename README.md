@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working as a Software Developer
+- 🔭 I’m currently working as a Frontend Engineer
 
 - 🌱 I’m currently learning **Everything related to Javascript**
 
@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **mondalarup808@gmail.com**
 
-- 📄 Know about my experiences [https://leoanimesh.github.io/](https://leoanimesh.github.io/)
+- 🛠️ I love building apps so have built a couple of them [Projects](https://leoanimesh.github.io/#work)
+
+- 📄 Know about my experiences [Portfolio](https://leoanimesh.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
