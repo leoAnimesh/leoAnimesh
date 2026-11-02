@@ -1,34 +1,64 @@
-<h1 align="center">Hi 👋, I'm Animesh Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Animesh%20Mondal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20React%20Native&descAlignY=58&descSize=18" alt="Animesh Mondal banner" width="100%" />
 
-- 🔭 I’m currently working as a Frontend Engineer
+<a href="https://github.com/leoAnimesh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Frontend+Wizard;JavaScript+%7C+React+%7C+React+Native;Passionate+engineer+from+India;I+love+building+apps" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Everything related to Javascript**
+<img src="https://komarev.com/ghpvc/?username=leoAnimesh&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
-- 📝 Sometimes I write articles on [https://medium.com/@leoanimesh](https://medium.com/@leoanimesh)
+</div>
 
-- 💬 Ask me about **React,React Native,Javascript**
+## 👨‍💻 About me
 
-- 📫 How to reach me **mondalarup808@gmail.com**
+- 🔭 Currently working as a **Frontend Engineer**
+- 🌱 Learning **everything related to JavaScript**
+- 💬 Ask me about **React, React Native, JavaScript**
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@leoanimesh)
+- 🛠️ I love building apps, see my [projects](https://leoanimesh.github.io/#work)
+- 📄 Know about my experience in my [portfolio](https://leoanimesh.github.io/)
+- 📫 Reach me at **mondalarup808@gmail.com**
 
-- 🛠️ I love building apps so have built a couple of them [Projects](https://leoanimesh.github.io/#work)
+## 🧰 Tech stack
 
-- 📄 Know about my experiences [Portfolio](https://leoanimesh.github.io/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How I converted my old laptop into a home server](https://medium.com/@leoanimesh/how-i-converted-my-old-laptop-as-a-home-server-e06b0f8d69f5?source=rss-8788965f718d------2)
-- [Javascript this keyword explained](https://medium.com/@leoanimesh/javascript-this-keyword-explained-a62f3676fca1?source=rss-8788965f718d------2)
-- [JavaScript Promises Explained](https://medium.com/@leoanimesh/javascript-promises-explained-a855963dd89f?source=rss-8788965f718d------2)
-- [Top vscode extension for developers](https://medium.com/@leoanimesh/top-vscode-extension-for-developers-94a0d2fe566e?source=rss-8788965f718d------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@leoanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="leoanimesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leoanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoanimesh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,firebase,git,figma,postman,linux&theme=dark" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**OpenClean**](https://github.com/leoAnimesh/OpenClean) | Free, open-source Mac cleaner. Clear junk, uninstall apps completely, and see what's using your disk. | <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> |
+| [**lodestar**](https://github.com/leoAnimesh/lodestar) | Free, open-source launcher for Mac: a fast Spotlight, Alfred and Raycast alternative. | <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> |
+| [**agent-office**](https://github.com/leoAnimesh/agent-office) | Open-source desktop app: a pixel-art office where a boss Claude Code agent hires and delegates to a team of specialist agents. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
+| [**astropedia**](https://github.com/leoAnimesh/astropedia) | AI-powered astrology companion app. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
+| [**leoAnimesh.github.io**](https://github.com/leoAnimesh/leoAnimesh.github.io) | Personal portfolio site. | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> |
+| [**darkdroid-vscode-theme**](https://github.com/leoAnimesh/darkdroid-vscode-theme) | A VS Code color scheme for night owls. | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code" /> |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoAnimesh&theme=tokyonight" alt="Profile details and contributions" width="100%" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoAnimesh&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoAnimesh&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leoAnimesh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://leoanimesh.github.io/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/leoanimesh"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@leoanimesh"><img src="https://img.shields.io/badge/Medium-7aa2f7?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:mondalarup808@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=100&section=footer" alt="footer" width="100%" />
