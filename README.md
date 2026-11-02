@@ -1,8 +1,4 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Animesh%20Mondal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20React%20Native&descAlignY=58&descSize=18" alt="Animesh Mondal banner" width="100%" />
-
-</div>
 
 ## 👨‍💻 About me
 
