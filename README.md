@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Animesh%20Mondal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20React%20Native&descAlignY=58&descSize=18" alt="Animesh Mondal banner" width="100%" />
 
-<a href="https://github.com/leoAnimesh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Frontend+Wizard;JavaScript+%7C+React+%7C+React+Native;Passionate+engineer+from+India;I+love+building+apps" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=leoAnimesh&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
-
 </div>
 
 ## 👨‍💻 About me
@@ -44,12 +38,12 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoAnimesh&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoAnimesh&theme=tokyonight" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoAnimesh&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoAnimesh&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoAnimesh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=leoAnimesh&theme=tokyonight&card_width=700&card_height=200&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🤝 Connect with me
