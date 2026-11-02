@@ -28,7 +28,6 @@
 | [**lodestar**](https://github.com/leoAnimesh/lodestar) | Free, open-source launcher for Mac: a fast Spotlight, Alfred and Raycast alternative. | <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> |
 | [**agent-office**](https://github.com/leoAnimesh/agent-office) | Open-source desktop app: a pixel-art office where a boss Claude Code agent hires and delegates to a team of specialist agents. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
 | [**astropedia**](https://github.com/leoAnimesh/astropedia) | AI-powered astrology companion app. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
-| [**leoAnimesh.github.io**](https://github.com/leoAnimesh/leoAnimesh.github.io) | Personal portfolio site. | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> |
 | [**darkdroid-vscode-theme**](https://github.com/leoAnimesh/darkdroid-vscode-theme) | A VS Code color scheme for night owls. | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code" /> |
 
 ## 📊 GitHub stats
